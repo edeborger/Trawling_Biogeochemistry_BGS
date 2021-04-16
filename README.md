@@ -22,5 +22,5 @@ water concentrations representative for locations used in the article.
 Please read the materials and methods of the article and references therein to
 understand the model parameters and process descriptions.
 
-Please contact the authors (Emil De Borger - emil.de.borger@nioz.nl) for issues and
-remarks, or to inquire about collaborations.
+Please contact the authors (Emil De Borger - emil.de.borger@nioz.nl) for issues, 
+remarks, suggestions or to inquire about collaborations.
