@@ -16,8 +16,7 @@ Since the model takes a while to simulate what is shown in the figures, model ou
 ```{r setup, include=FALSE}
 
 ## Install the package CNPDIA from the R-Forge.
-# install.packages("CNPDIA_1.5.tar.gz", repos = NULL, type = "tar.gz")
-# install.packages("CNPDIA_1.5.tar.gz", repos = CRAN, type = "tar.gz")
+install.packages("CNPDIA", repos = c("http://R-Forge.R-project.org"), dep = TRUE)
 
 ## Load the package for use
 library(CNPDIA)
@@ -162,7 +161,7 @@ load(file = "./rda/mudTrawl.rda")
 
 # Plotting some output
 
-The output of `perturbRange()` is a dataframe (str(outputname)) of which the named output can be manipulated with standard plotting procedures, such as `boxplot()` or `plot()`.
+The output of `perturbRange()` is a dataframe (see `str(outputname)`) of which the named output can be manipulated with standard plotting procedures, such as `boxplot()` or `plot()`.
 
 ## Boxplot
 
