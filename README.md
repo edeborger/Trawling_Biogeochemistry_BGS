@@ -24,3 +24,9 @@ understand the model parameters and process descriptions.
 
 Please contact the authors (Emil De Borger - emil.de.borger@nioz.nl) for issues, 
 remarks, suggestions or to inquire about collaborations.
+
+
+
+[![DOI](https://zenodo.org/badge/336320242.svg)](https://zenodo.org/badge/latestdoi/336320242)
+
+
