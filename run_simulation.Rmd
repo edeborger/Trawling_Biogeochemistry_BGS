@@ -16,7 +16,7 @@ Since the model takes a while to simulate what is shown in the figures, model ou
 ```{r setup, include=FALSE}
 
 ## Install the package CNPDIA from the R-Forge.
-install.packages("CNPDIA", repos = c("http://R-Forge.R-project.org"), dep = TRUE)
+install.packages("./CNPDIA_1.0.tar.gz", repos = NULL, type = "tar.gz")
 
 ## Load the package for use
 library(CNPDIA)
